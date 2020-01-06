@@ -561,6 +561,60 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "good-idea",
+      "name": "Joseph Thomas",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11514928?v=4",
+      "profile": "https://www.good-idea.studio",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "boutell",
+      "name": "Tom Boutell",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32125?v=4",
+      "profile": "http://punkave.com/window",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "russdanner",
+      "name": "Russ Danner",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/169432?v=4",
+      "profile": "http://craftersoftware.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "RyanSusana",
+      "name": "Ryan Susana",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1254351?v=4",
+      "profile": "https://ryansusana.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "arpowers",
+      "name": "Andrew Powers",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/308134?v=4",
+      "profile": "https://www.fiction.com",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Simply007",
+      "name": "Ondřej Chrastina",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9218736?v=4",
+      "profile": "https://github.com/Simply007",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
